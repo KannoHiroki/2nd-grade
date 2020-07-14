@@ -1,0 +1,76 @@
+
+ゲームを起動する際はReleseの状態でビルドしてください。(Debug状態だと処理が重くなります)
+
+〇一部担当(一部担当)
+●担当箇所(全て担当)
+
+-------------プログラム担当箇所-------------
+Bullet.cpp
+
+Bullet.h
+
+Character.cpp     ●担当箇所
+
+Character.h     ●担当箇所
+
+Enemy.cpp     ●担当箇所
+
+Enemy.h     ●担当箇所
+
+Fort.cpp     ●担当箇所
+
+Fort.h     ●担当箇所
+
+GameSources.vcxitems
+
+GameSources.vcxitems.filters
+
+GameStage.cpp     〇一部担当
+
+GameStage.h     〇一部担当
+
+MyCamera.cpp
+
+MyCamera.h
+
+Player.cpp
+
+Player.h
+
+Project.h
+
+ProjectBehavior.cpp
+
+ProjectBehavior.h
+
+ProjectShader.cpp
+
+ProjectShader.h
+
+ResultStage.cpp
+
+ResultStage.h
+
+Scene.cpp     ●担当箇所
+
+Scene.h     ●担当箇所
+
+SpawnBlock.cpp     ●担当箇所
+
+SpawnBlock.h     ●担当箇所
+
+TitleStage.cpp
+
+TitleStage.h
+
+UI.cpp     ●担当箇所
+
+UI.h     ●担当箇所
+
+WaitStage.cpp     〇一部担当
+
+WaitStage.h     〇一部担当
+
+WinMain.cpp
+
+--------------------------------------------
