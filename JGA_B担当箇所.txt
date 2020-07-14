@@ -1,0 +1,100 @@
+
+ゲームを起動する際はReleseの状態でビルドしてください。(Debug状態だと処理が重くなります)
+
+〇一部担当(一部担当)
+●担当箇所(全て担当)
+
+-------------プログラム担当箇所-------------
+JGA_B/Game/GameSources
+
+Character.cpp     ●担当箇所
+
+Character.h     ●担当箇所
+
+Character.h.rej
+
+Cregit.cpp
+
+Cregit.h
+
+EfkInterface.cpp
+
+EfkInterface.h
+
+Enemy.cpp     ●担当箇所
+
+Enemy.h     ●担当箇所
+
+GameClearScene.cpp
+
+GameClearScene.h
+
+GameOverScene.cpp
+
+GameOverScene.h
+
+GameSources.vcxitems
+
+GameStage.cpp     〇一部担当
+
+GameStage.cpp.rej
+
+GameStage.h     〇一部担当
+
+MyCamera.cpp
+
+MyCamera.h
+
+Particle.cpp
+
+Particle.h
+
+Player.cpp
+
+Player.h
+
+Project.h
+
+ProjectBehavior.cpp
+
+ProjectBehavior.h
+
+ProjectShader.cpp
+
+ProjectShader.h
+
+Scene.cpp     〇一部担当
+
+Scene.h     〇一部担当
+
+SkyBox.cpp
+
+SkyBox.h
+
+Sprite.cpp     ●担当箇所
+
+Sprite.h     ●担当箇所
+
+StageSelect.cpp
+
+StageSelect.h
+
+Startscene.cpp
+
+Startscene.h
+
+UI.cpp
+
+UI.h
+
+WinMain.cpp
+
+--------------------------------------------
+
+---------------ツール担当箇所---------------
+
+マップ簡易作成用ツールです。データ量が多いためzipファイルにしてあります。
+
+UnityCSV.zip　●担当箇所
+
+--------------------------------------------
