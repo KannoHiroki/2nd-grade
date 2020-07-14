@@ -1,0 +1,12 @@
+*.user
+*.aps
+/Libs/lib/
+!/Libs/lib/Release
+/**/Temp/
+/**/Debug/
+/**/Release/
+/**/media/Shaders/
+/**/.vs/
+FullSample100/~$JGA2019_Task.xlsx
+*.filters
+*.vcxitem
