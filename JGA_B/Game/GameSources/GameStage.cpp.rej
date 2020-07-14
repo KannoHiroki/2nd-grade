@@ -1,0 +1,18 @@
+diff a/FullSample100/GameSources/GameStage.cpp b/FullSample100/GameSources/GameStage.cpp	(rejected hunks)
+@@ -392,14 +392,14 @@
+ 			CreateViewLight();
+ 			//�Œ�̃{�b�N�X�̍쐬
+ 			//CreateFixedBox();
+-			CreateCsvWall();
++			//CreateCsvWall();
+ 			CreateCsvMap();
+ 			//�v���[���[�̍쐬
+ 			CreatePlayer();
+ 			CreateCameraTarget();
+ 			CreateParticle();
+ 			CreateHPGauge();
+-			CreateEnemy();
++			//CreateEnemy();
+ 			//CreateCsvEnemy();
+ 			CreateUI();
+ 			CreateCsvPlant();

@@ -1,0 +1,7 @@
+Name,Scale.x,Scale.y,Scale.z,Rot.x,Rot.y,Rot.z,Pos.x,Pos.y,Pos.z,NowDis,NextDis
+TilingPlate,10,10,1,XM_PIDIV2,0,0,0,-0.5,0
+Player,1,1,1,0,0,0,0,0,0
+FixedBox,1,1,1,0,0,0,4.5,0.5,4.5
+FixedBox,1,1,1,0,0,0,-4.5,0.5,4.5
+FixedBox,1,1,1,0,0,0,-4.5,0.5,-4.5
+FixedBox,1,1,1,0,0,0,4.5,0.5,-4.5
